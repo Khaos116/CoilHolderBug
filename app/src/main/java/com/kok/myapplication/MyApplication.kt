@@ -8,7 +8,7 @@ import okhttp3.OkHttpClient
 import java.net.Proxy
 
 /**
- * Author:CASE
+ * Author:Khaos
  * Date:2020-12-11
  * Time:10:17
  */
