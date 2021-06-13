@@ -7,7 +7,7 @@ import com.kok.myapplication.R
 import kotlinx.android.synthetic.main.item_girl.view.itemGirlIv
 
 /**
- * Author:CASE
+ * Author:Khaos
  * Date:2020-11-25
  * Time:15:41
  */
