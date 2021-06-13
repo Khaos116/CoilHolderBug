@@ -5,7 +5,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.kok.myapplication.R
 
 /**
- * Author:CASE
+ * Author:Khaos
  * Date:2020-11-25
  * Time:15:35
  */
